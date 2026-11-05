@@ -4,14 +4,12 @@
   <img src="header-light.gif" alt="Sarthak Singh - low-level systems and web apps" width="100%">
 </picture>
 
-Right now: prototyping **[Slate](https://github.com/sarthak0116/slate)** with my team for a hackathon. An AI placement-prep copilot.
-Planned: resume tailoring, job matching, mock interviews, server-side approval gate.
+
 
 ### Selected work
 
 - **[ZYPR](https://github.com/sarthak0116/ZYPR)** - ZIP extractor in C, hand-written DEFLATE decompressor (RFC 1951), zero dependencies
 - **[ARM64-MNIST-Recognizer](https://github.com/sarthak0116/ARM64-MNIST-Recognizer)** - neural network forward pass in ARM64 assembly
-- **[Portfolio](https://github.com/sarthak0116/Portfolio)** - Next.js + TypeScript, static-first
 - **[Meld](https://github.com/sarthak0116/Meld)** - game matchmaking platform
 
 ### Stack
