@@ -16,4 +16,6 @@
 
 [![Stack](https://skillicons.dev/icons?i=c,py,ts,js,react,nextjs&theme=dark)](https://skillicons.dev)
 
+<img src="koi/koi.gif" width="256" alt="A koi that grows with my GitHub activity" />
+
 [LinkedIn](https://www.linkedin.com/in/sarthak-singh-6a1b92362) · [github.com/sarthak0116](https://github.com/sarthak0116)
